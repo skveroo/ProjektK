@@ -1,7 +1,7 @@
-echo "# ProjektK" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/skveroo/ProjektK.git
-git push -u origin main
+Projekt Kalendarz
+Jan Włodarski
+Maciej Rybak
+Bartłomiej Zając
+Technologie:
+- Kotlin - Firebase - bazy danych
+- Kotlin - Android Studio - technologia aplikacji
